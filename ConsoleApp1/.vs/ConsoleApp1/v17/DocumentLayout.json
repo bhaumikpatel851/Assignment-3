@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\github\\assignment-3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\github\\assignment-3\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\github\\assignment-3\\consoleapp1\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\github\\assignment-3\\consoleapp1\\rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|solutionrelative:rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\github\\assignment-3\\consoleapp1\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\github\\assignment-3\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B4AD5-86D5-4045-B7DA-10346C0D99D2}|ConsoleApp1.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:03:42.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:03:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalAgency.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\RentalAgency.cs",
+              "RelativeDocumentMoniker": "RentalAgency.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\RentalAgency.cs",
+              "RelativeToolTip": "RentalAgency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:03:14.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:02:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:02:26.069Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Assignment-3\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T19:42:25.832Z",
               "EditorCaption": ""
